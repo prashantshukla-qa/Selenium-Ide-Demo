@@ -357,7 +357,7 @@
         ["xpath=//div[@id='flash-messages']/div", "xpath:idRelative"],
         ["xpath=//div/div/div", "xpath:position"]
       ],
-      "value": "You logged into a secure area!\\n×"
+      "value": "Your password is invalid!\\n×"
     }, {
       "id": "5bb49826-00aa-4162-a302-04ec197cfe88",
       "comment": "",
